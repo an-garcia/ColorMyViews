@@ -19,6 +19,8 @@ References
 - https://developer.android.com/studio/write/layout-editor
 - https://developer.android.com/training/constraint-layout
 - https://android-developers.googleblog.com/2017/08/understanding-performance-benefits-of.html
+- https://developer.android.com/reference/android/support/constraint/ConstraintLayout
+- https://codelabs.developers.google.com/codelabs/constraint-layout/index.html#0
 - https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012
 
 
